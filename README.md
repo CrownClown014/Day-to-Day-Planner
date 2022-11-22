@@ -8,3 +8,6 @@ This day to day planner was made to be utilized to help individuals plan their d
 Usage:
 
 To help those who stuggle to plan their daily tasks.  Each hour will have a color that specifies past, present, and future.  In each timeblock, individuals will be able to add their task and click the save button.  This save will store the value into the local storage.  
+
+
+** I should have more commit but i do not know what appenned.  when i tried to commit individual files i was given an error but i could do git add -a and then commit.  When trying to push I received an error that i needed to pull before pushing?  Could not figure out so i deleted the repository and created a new one.   
